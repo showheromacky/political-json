@@ -1,0 +1,37 @@
+{
+  "PoliticalCommunication": "Denna annons är en politisk kommunikation som syftar till att påverka lagstiftningsprocessen relaterad till miljöpolitik i Europeiska unionen.",
+  "InformationOmAnnonsören": {
+    "JuridisktNamn": "Dutch Progressive Party (Nederlandse Progressieve Partij B.V.)",
+    "Adress": "Lange Voorhout 15, 2514 EA Haag, Nederländerna",
+    "Etableringsland": "Nederländerna (EU-medlemsstat)",
+    "Verklig huvudman": "Samma som annonsören",
+    "Betalningsansvarig": "Campaign Finance Committee NPP"
+  },
+  "FinancialInformation": {
+    "TotalAmount": "€45,000 (ShowHeroes: €15,000, Publishers: €30,000)",
+    "BenefitsInKind": "€2,500 (Creative production services)",
+    "FundingSource": "Private funding, EU donations & membership fees",
+    "Calculation": "Based on contracted CPM rates and actual impressions delivered"
+  },
+  "ElectoralContext": {
+    "Election": "Netherlands Parliamentary Elections 2025",
+    "PublicationPeriod": "September 1 - November 22, 2025",
+    "OfficialInfo": "Netherlands Electoral Commission"
+  },
+  "TargetInformation": {
+    "Geographic": "Netherlands, age 18+, likely voters",
+    "Contextual": "News websites, political content, current affairs",
+    "ShowHeroesSemanticHeroTargeting": [
+      "AI-driven semantic content analysis",
+      "Natural language processing for political content matching",
+      "Real-time contextual placement on relevant news articles",
+      "No personal data profiling - content-based targeting only"
+    ],
+    "DataSources": "No personal data targeting used - contextual placement only"
+  },
+  "TechnicalInformation": {
+    "RepositoryID": "EU-REPO-2025-NL-0847",
+    "ComplianceStatus": "No previous infringements",
+    "DataRetention": "Information stored until November 2032 (7 years)"
+  }
+}
