@@ -7,31 +7,31 @@
     "Verklig huvudman": "Samma som annonsören",
     "Betalningsansvarig": "Campaign Finance Committee NPP"
   },
-  "FinancialInformation": {
-    "TotalAmount": "€45,000 (ShowHeroes: €15,000, Publishers: €30,000)",
-    "BenefitsInKind": "€2,500 (Creative production services)",
-    "FundingSource": "Private funding, EU donations & membership fees",
-    "Calculation": "Based on contracted CPM rates and actual impressions delivered"
+  "EkonomiskInformation": {
+    "TotalAmount": "45 000 € (ShowHeroes: 15 000 €, publicister: 30 000 €)",
+    "Naturaförmåner": "2 500 € (Kreativa produktionstjänster)",
+    "Finansieringskälla": "Privat finansiering, EU-donationer och medlemsavgifter",
+    "Beräkning": "Baserat på avtalade CPM-priser och faktiska levererade visningar"
   },
-  "ElectoralContext": {
-    "Election": "Netherlands Parliamentary Elections 2025",
-    "PublicationPeriod": "September 1 - November 22, 2025",
-    "OfficialInfo": "Netherlands Electoral Commission"
+  "ValrelateratSammanhang": {
+    "Val": "Parlamentsvalet i Nederländerna 2025",
+    "PubliceringsPeriod": "1 september – 22 november 2025",
+    "OfficiellInfo": "Nederländernas valmyndighet"
   },
-  "TargetInformation": {
-    "Geographic": "Netherlands, age 18+, likely voters",
-    "Contextual": "News websites, political content, current affairs",
-    "ShowHeroesSemanticHeroTargeting": [
-      "AI-driven semantic content analysis",
-      "Natural language processing for political content matching",
-      "Real-time contextual placement on relevant news articles",
-      "No personal data profiling - content-based targeting only"
+  "InformationOmMålgruppsanpassning": {
+    "Geografiskt": "Nederländerna, ålder 18+, troliga väljare",
+    "Kontextuellt": "Nyhetswebbplatser, politiskt innehåll, aktuella händelser",
+    "ShowHeroesSemanticHero-inriktning": [
+      "AI-driven semantisk innehållsanalys",
+      "Språkteknologi (NLP) för matchning av politiskt innehåll",
+      "Kontextuell placering i realtid på relevanta nyhetsartiklar",
+      "Ingen profilering av personuppgifter – endast innehållsbaserad inriktning"
     ],
-    "DataSources": "No personal data targeting used - contextual placement only"
+    "Datakällor": "Ingen inriktning på personuppgifter har använts – endast kontextuell placering"
   },
-  "TechnicalInformation": {
-    "RepositoryID": "EU-REPO-2025-NL-0847",
-    "ComplianceStatus": "No previous infringements",
-    "DataRetention": "Information stored until November 2032 (7 years)"
+  "TekniskInformation": {
+    "Register-ID": EU-REPO-2025-NL-0847",
+    "Efterlevnadsstatus": "Inga tidigare överträdelser",
+    "Datalagring": "Information lagras till november 2032 (7 år)"
   }
 }
