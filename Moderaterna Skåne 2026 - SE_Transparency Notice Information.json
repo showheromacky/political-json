@@ -1,0 +1,31 @@
+{
+  "PoliticalCommunication": "Denna annons är en politisk kommunikation som syftar till att påverka lagstiftningsprocessen relaterad till miljöpolitik i Europeiska unionen.",
+  "InformationOmSponsor": {
+    "SponsornsNamn": "MODERATERNA REGION SKÅNE",
+    "E-postadress": "Elisabeth.Lindback@moderaterna.se",
+    "Postadress": "Moderaterna i region Skåne Region Skåne 291 89 Kristianstad",
+    "Etableringsort": "Kristianstad",
+    "Organisationsnummer": "2321000255"
+  },
+  "KontrollerandeEnhet": {
+    "TotalAmount": "45 000 € (ShowHeroes: 15 000 €, publicister: 30 000 €)",
+    "Naturaförmåner": "2 500 € (Kreativa produktionstjänster)",
+    "Finansieringskälla": "Privat finansiering, EU-donationer och medlemsavgifter",
+    "Beräkning": "Baserat på avtalade CPM-priser och faktiska levererade visningar"
+  },
+  "BetalningsInformation": {
+    "BetalasAv": "Gorgeous Media",
+    "E-postadress": "magnus@gorgeousmedia.se",
+    "PostAdress": "Rådmansgatan 27 Stockholm"
+  },
+  "Publiceringsperiod": {
+    "Startdatum": "20/05/2026",
+    "Slutdatum": "20/06/2026"
+  },
+  "FinansiellInformation": {
+    "TotalKampanjkostnad": "300000 SEK",
+    "Finansieringskälla": "OFFENTLIG finansiering från EU källor",
+    "Beräkningsmetod": "CPM-pris / inklusive moms"
+  }
+}
+  
