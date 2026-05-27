@@ -53,7 +53,7 @@
   "InformationOmEfterlevnad": {
     "EuropeisktRegister": "0",
     "RapporteraBristandeEfterlevnad": "0",
-    "TidigareAvstängning": "0",
+    "TidigareAvstängning": "NEJ",
     "TillgängligaSpråk": "0"
   }
 }
