@@ -8,14 +8,13 @@
     "Organisationsnummer": "2321000255"
   },
   "KontrollerandeEnhet": {
-    "TotalAmount": "45 000 € (ShowHeroes: 15 000 €, publicister: 30 000 €)",
-    "Naturaförmåner": "2 500 € (Kreativa produktionstjänster)",
-    "Finansieringskälla": "Privat finansiering, EU-donationer och medlemsavgifter",
-    "Beräkning": "Baserat på avtalade CPM-priser och faktiska levererade visningar"
+    "KontrollerandeEnhet": "Gorgeous Media",
+    "E-postadress": "magnus@gorgeousmedia.se denise@gorgeousmedia.se",
+    "Postadress": "Rådmansgatan 27 Stockholm"
   },
   "BetalningsInformation": {
     "BetalasAv": "Gorgeous Media",
-    "E-postadress": "magnus@gorgeousmedia.se, denise@gorgeousmedia.se",
+    "E-postadress": "magnus@gorgeousmedia.se",
     "PostAdress": "Rådmansgatan 27 Stockholm"
   },
   "Publiceringsperiod": {
