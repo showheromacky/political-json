@@ -39,7 +39,6 @@
     "Målgruppskriterier": "Målgruppen är begränsad till användare baserat på deras geografiska plats i Skåne.",
     "AI-systemAvänds": "NEJ",
     "Huvudparametrar": "Geografisk målgruppsanpassning",
-    "DinaRättigheter": "Du kan utöva dina rättigheter gällande behandlingen av dina personuppgifter för målgruppsanpassning av politisk reklam, inklusive att återkalla samtycke för politisk reklam, på: LÄNK FÖR ÅTERKALLANDE _AV SAMTYCKE"
   },
   "Innehållsuppgifter": {
     "AI-genereratInnehåll": "NEJ"
@@ -51,10 +50,10 @@
     "Kommentarer": "N/A"
   },
   "InformationOmEfterlevnad": {
-    "EuropeisktRegister": "[REGISTERLÄNK] (tillgänglig när registret är operativt)",
+    "EuropeisktRegister": "Länk tillgänglig när registret är operativt",
     "RapporteraBristandeEfterlevnad": "https://forms.gle/4pZeWHB6nWZYH3EFA",
     "TidigareAvstängning": "NEJ",
-    "TillgängligaSpråk": "SPRÅKLISTA"
+    "TillgängligaSpråk": "Svenska"
   }
 }
   
