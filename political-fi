@@ -7,12 +7,12 @@
     "Kotipaikka": "Helsinki, Suomi",
     "Rekisterinumero": "999.999-99 (oikeushenkilöt)"
   },
-  "MääräysvallanKäyttäjä": {
+  "MääräysvallanKäyttäjä(tarvittaessa)": {
     "MääräysvallanKäyttäjä": "Esimerkkiyhdistyksen taustayhdistys Ry",
     "Sähköpostiosoite": "tuki@esimerkkiyhdistys.fi",
-    "Postiosoite": "Sädekatu 77, Tampere, 33100, Suomi", 
+    "Postiosoite": "Sädekatu 77, Tampere, 33100, Suomi"
   },
-  "Maksutiedot": {
+  "Maksutiedot(jos eri kuin rahoittaja)": {
     "Maksaja": "Mainostoimisto Esimerkki Oy",
     "Sähköpostiosoite": "laskutus@mainostoimistoesimerkki.fi ",
     "Postiosoite": "Tarinakuja 3, Helsinki, 00100, Suomi"
@@ -26,25 +26,24 @@
     "Rahoituslähde": "YKSITYINEN rahoitus EU-lähteistä",
     "Laskentamenetelmä": "Kiinteä kampanjahinta / sisältäen ALV:n"
   },
-  "PoliittinenKonteksti": {
+  "PoliittinenKonteksti(tarvittaessa)": {
     "KytkeytyySeuraaviin": "LAINSÄÄDÄNTÖPROSESSI",
     "Tapahtuma": "Esimerkki -hanke",
     "Päivämäärä": "01/10/2026",
     "Taso": "KANSALLINEN - Suomi",
     "VirallisetTiedot": "https://www.eduskunta.fi/FI/vireilla/avoinna-olevat-asiat"
   }, 
-  "Kohdentamis-Ja/taiMainoksenJakelutekniikoidenKäyttö": {
+  "Kohdentamis-Ja/taiMainoksenJakelutekniikoidenKäyttö(tarvittaessa)": {
     "KäytetytHenkilötiedot": "KYLLÄ ",
     "Tietoryhmät": "Sijainti (maantieteellinen sijainti)",
     "Kohdentamiskriteerit": "Käyttäjät alueella: Koko Suomi",
     "KäytettyTekoälyjärjestelmää": "El",
     "Pääparametrit": "Maantieteellinen kohdentaminen (geokohdennus)",
-    "Sinun oikeutesi": "Voit käyttää poliittisen mainonnan kohdentamista koskevia henkilötietojesi käsittelyyn liittyviä oikeuksiasi, mukaan lukien peruuttaa suostumuksesi poliittiseen mainontaan, osoitteessa: https://www.esimerkkiyhdistysry.fi/tietosuoja/peruuta-suostumus",
+    "Sinun oikeutesi": "Voit käyttää poliittisen mainonnan kohdentamista koskevia henkilötietojesi käsittelyyn liittyviä oikeuksiasi, mukaan lukien peruuttaa suostumuksesi poliittiseen mainontaan, osoitteessa: https://www.esimerkkiyhdistysry.fi/tietosuoja/peruuta-suostumus"
   },
-  "SisällöstäIlmoittaminen": {
+  "SisällöstäIlmoittaminen(tarvittaessa)": {
     "TekoälylläLuotuSisältö": "El"
   },
-
   "TavoittavuusJaSitoutuminen(päivitetään kampanjan aikana sitä mukaa kuin tietoa on saatavilla)": {
     "Katselukerrat": "[PÄIVITETÄÄN KAMPANJAN AIKANA]",
     "Klikkaukset": "[PÄIVITETÄÄN KAMPANJAN AIKANA]",
