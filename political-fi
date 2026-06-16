@@ -1,0 +1,60 @@
+{
+  "PoliittinenViestintä": "Tämä mainos on poliittinen viestintä, joka kytkeytyy lainsäädäntöprosessiin kansallisella tasolla Suomessa (Esimerkki -hanke).",
+  "RahoittajanTiedot": {
+    "RahoittajanNimi": "Esimerkkiyhdistys Ry",
+    "Sähköpostiosoite": "info@esimerkkiyhdistys.fi",
+    "Postiosoite": "Pilvilinnankatu 99 B, Helsinki, 00100, Suomi",
+    "Kotipaikka": "Helsinki, Suomi",
+    "Rekisterinumero": "999.999-99 (oikeushenkilöt)"
+  },
+  "MääräysvallanKäyttäjä": {
+    "MääräysvallanKäyttäjä": "Esimerkkiyhdistyksen taustayhdistys Ry",
+    "Sähköpostiosoite": "tuki@esimerkkiyhdistys.fi",
+    "Postiosoite": "Sädekatu 77, Tampere, 33100, Suomi", 
+  },
+  "Maksutiedot": {
+    "Maksaja": "Mainostoimisto Esimerkki Oy",
+    "Sähköpostiosoite": "laskutus@mainostoimistoesimerkki.fi ",
+    "Postiosoite": "Tarinakuja 3, Helsinki, 00100, Suomi"
+  },
+  "Julkaisukausi": {
+    "Alkamispäivä": "15/10/2026",
+    "Päättymispäivä": "15/11/2026"
+  },
+  "KustannuksetJaRahoitus": {
+    "KampanjanKokonaiskustannukset": "€12 500,00 (EUR) (jos osa laajempaa kampanjaa)",
+    "Rahoituslähde": "YKSITYINEN rahoitus EU-lähteistä",
+    "Laskentamenetelmä": "Kiinteä kampanjahinta / sisältäen ALV:n"
+  },
+  "PoliittinenKonteksti": {
+    "KytkeytyySeuraaviin": "LAINSÄÄDÄNTÖPROSESSI",
+    "Tapahtuma": "Esimerkki -hanke",
+    "Päivämäärä": "01/10/2026",
+    "Taso": "KANSALLINEN - Suomi",
+    "VirallisetTiedot": "https://www.eduskunta.fi/FI/vireilla/avoinna-olevat-asiat"
+  }, 
+  "Kohdentamis-Ja/taiMainoksenJakelutekniikoidenKäyttö": {
+    "KäytetytHenkilötiedot": "KYLLÄ ",
+    "Tietoryhmät": "Sijainti (maantieteellinen sijainti)",
+    "Kohdentamiskriteerit": "Käyttäjät alueella: Koko Suomi",
+    "KäytettyTekoälyjärjestelmää": "El",
+    "Pääparametrit": "Maantieteellinen kohdentaminen (geokohdennus)",
+    "Sinun oikeutesi": "Voit käyttää poliittisen mainonnan kohdentamista koskevia henkilötietojesi käsittelyyn liittyviä oikeuksiasi, mukaan lukien peruuttaa suostumuksesi poliittiseen mainontaan, osoitteessa: https://www.esimerkkiyhdistysry.fi/tietosuoja/peruuta-suostumus",
+  },
+  "SisällöstäIlmoittaminen": {
+    "TekoälylläLuotuSisältö": "El"
+  },
+
+  "TavoittavuusJaSitoutuminen(päivitetään kampanjan aikana sitä mukaa kuin tietoa on saatavilla)": {
+    "Katselukerrat": "[PÄIVITETÄÄN KAMPANJAN AIKANA]",
+    "Klikkaukset": "[PÄIVITETÄÄN KAMPANJAN AIKANA]",
+    "Tykkäykset": "[PÄIVITETÄÄN KAMPANJAN AIKANA]",
+    "Kommentit": "[PÄIVITETÄÄN KAMPANJAN AIKANA]"
+  },
+  "Vaatimustenmukaisuus": {
+    "EurooppalainenRekisteri": "https://ec.europa.eu/political-ads-repository/campaign-98765",
+    "IlmoitaSääntörikkomuksesta": "https://www.showheroes.com/report-political-ad?id=sh-98765",
+    "AiempiKeskeytys": "El",
+    "SaatavillaOlevatKielet": "Suomi, ruotsi"
+  }
+}
