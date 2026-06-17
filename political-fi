@@ -36,7 +36,7 @@
   "Kohdentamistiedot": {
     "Maantieteellinen": "Suomi, ikä 18+, todennäköiset äänestäjät",
     "Kontekstuaalinen": "Uutissivustot, poliittinen sisältö, ajankohtaisohjelmat",
-    "ShowHeroes SemanticHero-kohdentaminen": "Tekoälypohjainen semanttinen sisältöanalysi Luonnollisen kielen käsittely poliittisen sisällön yhdistämiseen Reaaliaikainen kontekstuaalinen sijoittelu ajankohtaisiin uutisartikkeleihin Ei henkilötietojen profilointia – puhtaasti sisältöperusteinen kohdentaminen",
+    "ShowheroesSemanticHero-kohdentaminen": "Tekoälypohjainen semanttinen sisältöanalysi Luonnollisen kielen käsittely poliittisen sisällön yhdistämiseen Reaaliaikainen kontekstuaalinen sijoittelu ajankohtaisiin uutisartikkeleihin Ei henkilötietojen profilointia – puhtaasti sisältöperusteinen kohdentaminen",
     "Tietolähteet": "Henkilötietojen kohdentamista ei käytetä – ainoastaan kontekstuaalinen sijoittelu"
   },
   "SisällöstäIlmoittaminen(tarvittaessa)": {
