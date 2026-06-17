@@ -1,5 +1,5 @@
 {
-  "PoliittinenViestintä": "Tämä mainos on poliittinen viestintä, joka kytkeytyy lainsäädäntöprosessiin kansallisella tasolla Suomessa (Esimerkki -hanke).",
+  "PoliittinenViestintä": "Tämä mainos on poliittista viestintää, joka kytkeytyy lainsäädäntöprosessiin kansallisella tasolla Suomessa (Esimerkki -hanke).",
   "RahoittajanTiedot": {
     "RahoittajanNimi": "Esimerkkiyhdistys Ry",
     "Sähköpostiosoite": "info@esimerkkiyhdistys.fi",
@@ -33,13 +33,11 @@
     "Taso": "KANSALLINEN - Suomi",
     "VirallisetTiedot": "https://www.eduskunta.fi/FI/vireilla/avoinna-olevat-asiat"
   }, 
-  "Kohdentamis-Ja/taiMainoksenJakelutekniikoidenKäyttö(tarvittaessa)": {
-    "KäytetytHenkilötiedot": "KYLLÄ ",
-    "Tietoryhmät": "Sijainti (maantieteellinen sijainti)",
-    "Kohdentamiskriteerit": "Käyttäjät alueella: Koko Suomi",
-    "KäytettyTekoälyjärjestelmää": "El",
-    "Pääparametrit": "Maantieteellinen kohdentaminen (geokohdennus)",
-    "Sinun oikeutesi": "Voit käyttää poliittisen mainonnan kohdentamista koskevia henkilötietojesi käsittelyyn liittyviä oikeuksiasi, mukaan lukien peruuttaa suostumuksesi poliittiseen mainontaan, osoitteessa: https://www.esimerkkiyhdistysry.fi/tietosuoja/peruuta-suostumus"
+  "Kohdentamistiedot": {
+    "Maantieteellinen": "Suomi, ikä 18+, todennäköiset äänestäjät",
+    "Kontekstuaalinen": "Uutissivustot, poliittinen sisältö, ajankohtaisohjelmat",
+    "ShowHeroes SemanticHero-kohdentaminen": "Tekoälypohjainen semanttinen sisältöanalysi Luonnollisen kielen käsittely poliittisen sisällön yhdistämiseen Reaaliaikainen kontekstuaalinen sijoittelu ajankohtaisiin uutisartikkeleihin Ei henkilötietojen profilointia – puhtaasti sisältöperusteinen kohdentaminen",
+    "Tietolähteet": "Henkilötietojen kohdentamista ei käytetä – ainoastaan kontekstuaalinen sijoittelu"
   },
   "SisällöstäIlmoittaminen(tarvittaessa)": {
     "TekoälylläLuotuSisältö": "El"
