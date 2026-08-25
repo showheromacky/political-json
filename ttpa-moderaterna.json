@@ -1,0 +1,58 @@
+{
+  "PoliticalCommunication": "Redogörelse för politisk reklam",
+  "InformationOmSponsor": {
+    "SponsornsNamn": "MODERATERNA REGION SKÅNE",
+    "E-postadress": "Elisabeth.Lindback@moderaterna.se",
+    "Postadress": "Moderaterna i region Skåne Region Skåne 291 89 Kristianstad",
+    "Etableringsort": "Kristianstad",
+    "Organisationsnummer": "2321000255"
+  },
+  "KontrollerandeEnhet": {
+    "KontrollerandeEnhet": "Gorgeous Media",
+    "E-postadress": "magnus@gorgeousmedia.se denise@gorgeousmedia.se",
+    "Postadress": "Rådmansgatan 27 Stockholm"
+  },
+  "BetalningsInformation": {
+    "BetalasAv": "Gorgeous Media",
+    "E-postadress": "magnus@gorgeousmedia.se",
+    "PostAdress": "Rådmansgatan 27 Stockholm"
+  },
+  "Publiceringsperiod": {
+    "Startdatum": "17/08/2026",
+    "Slutdatum": "13/09/2026"
+  },
+  "FinansiellInformation": {
+    "TotalKampanjkostnad": "SEK 50 000 kr",
+    "Finansieringskälla": "OFFENTLIG finansiering från EU källor",
+    "Beräkningsmetod": "CPM-pris / inklusive moms"
+  },
+  "PolitiskKontext": {
+    "KopplatTill": "VAL",
+    "Händelse": "Regionsval",
+    "Datum": "13/9 2026",
+    "Nivå": "REGIONAL - SKÅNE",
+    "OfficiellInformation": "Val.se"
+  },
+  "AnvändningAvMålgruppsanpassningOch/EllerLeveransteknikerFörAnnons": {
+    "PersonuppgifterAnvänds": "NEJ",
+    "Datakategorier": "Skåne",
+    "Målgruppskriterier": "Målgruppen är begränsad till användare baserat på deras geografiska plats i Skåne.",
+    "AI-systemAvänds": "NEJ",
+    "Huvudparametrar": "Geografisk målgruppsanpassning"
+  },
+  "Innehållsuppgifter": {
+    "AI-genereratInnehåll": "NEJ"
+  },
+  "RäckviddOchEngagemang": {
+    "Visningar": "0",
+    "Klick": "0",
+    "Gilla-markeringar": "0",
+    "Kommentarer": "0"
+  },
+  "InformationOmEfterlevnad": {
+    "EuropeisktRegister": "[REGISTERLÄNK] (tillgänglig när registret är operativt)",
+    "RapporteraBristandeEfterlevnad": "https://forms.gle/4pZeWHB6nWZYH3EFA",
+    "TidigareAvstängning": "NEJ",
+    "TillgängligaSpråk": "Svenska"
+  }
+}
