@@ -1,5 +1,12 @@
 {
   "PoliticalCommunication": "Redogörelse för politisk reklam",
+    "PoliticalCommunication": {
+    "SponsornsNamn": "MODERATERNA REGION SKÅNE",
+    "E-postadress": "Elisabeth.Lindback@moderaterna.se",
+    "Postadress": "Moderaterna i region Skåne Region Skåne 291 89 Kristianstad",
+    "Etableringsort": "Kristianstad",
+    "Organisationsnummer": "2321000255"
+  },
   "InformationOmSponsor": {
     "SponsornsNamn": "MODERATERNA REGION SKÅNE",
     "E-postadress": "Elisabeth.Lindback@moderaterna.se",
@@ -38,7 +45,8 @@
     "Datakategorier": "Skåne",
     "Målgruppskriterier": "Målgruppen är begränsad till användare baserat på deras geografiska plats i Skåne.",
     "AI-systemAvänds": "NEJ",
-    "Huvudparametrar": "Geografisk målgruppsanpassning"
+    "Huvudparametrar": "Geografisk målgruppsanpassning",
+    "DinaRättigheter": "Du kan utöva dina rättigheter gällande behandlingen av dina personuppgifter för målgruppsanpassning av politisk reklam, inklusive att återkalla samtycke för politisk reklam, på: LÄNK FÖR ÅTERKALLANDE _AV SAMTYCKE"
   },
   "Innehållsuppgifter": {
     "AI-genereratInnehåll": "NEJ"
